@@ -1,0 +1,13 @@
+/* Declaring custom properties */
+* {
+  box-sizing: border-box;
+}
+
+#principal {
+  padding: 7em;
+  text-align: center;
+  background-image: url("foto-principal.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
