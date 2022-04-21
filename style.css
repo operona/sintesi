@@ -1,6 +1,11 @@
 /* Declaring custom properties */
 * {
   box-sizing: border-box;
+
+}
+
+body {
+  margin: 0;
 }
 
 #principal {
@@ -10,6 +15,22 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+.titulo {
+  font-size: 300%;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.cuadro-titulo {
+  background-color: #E3D1CF;
+  width: 75em;
+  height: 7em;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #menu {
@@ -35,11 +56,78 @@
   border-left: thin solid lightgray;
 }
 
+.raspberry-left {
+  padding: 4em;
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.raspberry-right {
+  padding: 4em;
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+#contenido {
+  position: relative;
+}
+
+.foto1 {
+  /* border-color: gray;
+  border-width: 1px;
+  border-style: dotted; */
+  padding-right: 5em;
+  padding-left: 6em;
+}
+
+.explicacion-rasp {
+
+  /* border-color: gray;
+  border-width: 1px;
+  border-style: dotted; */
+  text-align: left;
+  padding-left: 8em;
+  padding-top: 2em;
+  padding-right: 1em;
+  /* width: 60em;
+  height: 16em;
+
+  top: 5em; */
+}
+
+.foto2 {
+  /* border-color: gray;
+  border-width: 1px;
+  border-style: dotted; */
+  float: right;
+  padding-left: 5em;
+  padding-right: 6em;
+}
+
+.explicacion-rasp2 {
+
+  /* border-color: gray;
+  border-width: 1px;
+  border-style: dotted; */
+  text-align: left;
+  padding-right: 8em;
+  padding-top: 2em;
+  padding-left: 1em;
+  /* width: 60em; */
+  /* height: 16em;
+
+  top: 26em; */
+}
+
+
 #footer {
   background-color: #32373a;
   color: gray;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+
 }
 
 #footer h6 {
