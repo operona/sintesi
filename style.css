@@ -139,3 +139,15 @@ body {
   list-style-type: none;
   padding: 0;
 }
+
+.link-raspberry {
+  color: gray;
+}
+
+.link-compra {
+  color: yellow;
+}
+
+.link-osmc {
+  color: yellow;
+}
