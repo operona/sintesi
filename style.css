@@ -8,52 +8,7 @@ body {
   margin: 0;
 }
 
-#principal {
-  padding: 7em;
-  text-align: center;
-  background-image: url("foto-principal.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
 
-.titulo {
-  font-size: 300%;
-  font-weight: bolder;
-  text-align: center;
-}
-
-.cuadro-titulo {
-  background-color: #E3D1CF;
-  width: 75em;
-  height: 7em;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-
-  }
-#menu-ul {
-  color:white;
-}
-
-#menu > ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
-#menu > ul > li {
-  display: inline-block;
-  padding: 0.5em;
-  border-left: thin solid lightgray;
-}
-
-ul, ol {
-  list-style: none;
-}
 
 .raspberry-left {
   padding: 4em;
