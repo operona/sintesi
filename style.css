@@ -110,3 +110,26 @@ body {
   width: 1000px;
   height: 600px;
 }
+
+#capa {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 1em;
+  background-color: white;
+  color: black;
+}
+
+#imagen-tarjeta-sd {
+  width: 200px;
+  height: 200px;
+}
+
+#imagen-fuente-de-alimentacion {
+  width: 350px;
+  height: 350px;
+}
+
+#imagen-material-raspberry {
+  width: 200px;
+  height: 200px;
+}
