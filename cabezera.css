@@ -1,0 +1,90 @@
+#principal {
+  padding: 7em;
+  text-align: center;
+  background-image: url("foto-principal.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.titulo {
+  font-size: 300%;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.cuadro-titulo {
+  background-color: #E3D1CF;
+  width: 75em;
+  height: 7em;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.texto-proyecto{
+  color: black;
+  float: left;
+  margin-top: 20px;
+  font-size: 24px;
+  padding-right: 50px;
+  padding-left: 25px;
+}
+.menu{
+  overflow: hidden;
+  text-align: center;
+  background-color: #E3D1CF;
+  height: 70px;
+}
+.submenu{
+  margin-top: 10px;
+  text-align: center;
+  padding-right: 75px;
+}
+.menu a {
+  float: right;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.menu a:hover, .proyecto:hover .proyectodrop {
+  background-color: #C1B1A7;
+}
+.proyecto {
+  float: right;
+  overflow: hidden;
+}
+.proyecto .proyectodrop {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+}
+.proyecto-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.proyecto-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.proyecto-content a:hover {
+  background-color: #ddd;
+}
+.proyecto:hover .proyecto-content {
+  display: block;
+}
