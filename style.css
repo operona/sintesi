@@ -133,3 +133,16 @@ body {
   width: 200px;
   height: 200px;
 }
+
+#como-funciona-con-raspberry-pi {
+  margin-bottom: 100px;
+}
+
+#como-funciona-con-raspberry-pi img {
+  width: 800px;
+  height: 800px;
+}
+
+#porque-osmc {
+  margin-bottom: 100px;
+}

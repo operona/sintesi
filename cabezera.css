@@ -88,3 +88,8 @@
 .proyecto:hover .proyecto-content {
   display: block;
 }
+
+.texto-proyecto img {
+  width: 45px;
+  height: 50px;
+}
