@@ -146,3 +146,33 @@ body {
 #porque-osmc {
   margin-bottom: 100px;
 }
+
+#imagenes-sd {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1em;
+}
+
+#imagenes-win32 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1em;
+}
+
+#imagenes-carcasa {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1em;
+}
+
+#imagenes-carcasa2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1em;
+}
+
+#imagenes-impresora {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1em;
+}
