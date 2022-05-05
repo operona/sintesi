@@ -1,0 +1,11 @@
+.cuadro-info {
+  padding: 3em;
+}
+
+#informacion {
+  border-color: #C2AAA4;
+  border-width: 20px;
+  border-style: ridge;
+  padding: 0.5em;
+  background-color: #E3D1CF;
+}
