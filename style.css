@@ -176,3 +176,9 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
   padding: 1em;
 }
+
+#imagen-api4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1em;
+}
