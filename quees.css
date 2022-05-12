@@ -1,5 +1,10 @@
+body {
+  background-color: #FFEFEB;
+}
+
 .cuadro-info {
-  padding: 3em;
+  padding-top: 3em;
+  padding-bottom: 3em;
 }
 
 #informacion {
@@ -8,4 +13,30 @@
   border-style: ridge;
   padding: 0.5em;
   background-color: #E3D1CF;
+}
+
+.cuadro-info2 {
+
+  border-color: #C2AAA4;
+  border-width: 20px;
+  border-style: ridge;
+  padding: 0.5em;
+  background-color: #E3D1CF;
+}
+
+.hardware {
+  position: relative;
+  border-color: #C2AAA4;
+  border-width: 8px;
+  border-style: ridge;
+  padding: 1.5em;
+  background-color: #E3D1CF;
+  text-align: center;
+  width: 25em;
+  top: -3em;
+}
+
+.materiales {
+  display: grid;
+  grid-template-columns: 2.5fr 2.5fr 2.5fr 2.5fr;
 }

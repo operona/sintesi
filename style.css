@@ -182,3 +182,7 @@ body {
   grid-template-columns: 1fr 1fr;
   padding: 1em;
 }
+
+.fotos {
+  padding: 1em;
+}
