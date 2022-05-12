@@ -182,3 +182,8 @@ body {
   grid-template-columns: 1fr 1fr;
   padding: 1em;
 }
+
+.grid-claves {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
