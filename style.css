@@ -186,3 +186,8 @@ body {
 .fotos {
   padding: 1em;
 }
+
+.grid-claves {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
