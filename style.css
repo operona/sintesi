@@ -191,3 +191,21 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+#imagenes-alfa7 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1em;
+}
+
+#imagenes-comprovación4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 1em;
+}
+
+#imagenes-comprovación5 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1em;
+}
