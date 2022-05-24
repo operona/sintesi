@@ -77,6 +77,7 @@ body {
 
 
 #footer {
+  padding-top: 0.4em;
   background-color: #32373a;
   color: gray;
   display: grid;

@@ -1,0 +1,31 @@
+body {
+  background-color: #FFEFEB;
+}
+
+.info {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  padding-left: 24em;
+}
+
+#que-es-libreelec {
+  border-color: #C2AAA4;
+  border-width: 20px;
+  border-style: ridge;
+  padding: 0.5em;
+  background-color: #E3D1CF;
+  width: 65em;
+  padding: 2em;
+  text-align: center;
+}
+
+.addons {
+  border-color: #C2AAA4;
+  border-width: 20px;
+  border-style: ridge;
+  padding: 0.5em;
+  background-color: #E3D1CF;
+  width: 65em;
+  padding: 1.5em;
+  text-align: center;
+}
