@@ -1,0 +1,18 @@
+body {
+  background-color: #FFEFEB;
+}
+
+
+.pasos {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background-color: red;
+}
+
+.paso {
+  border-color: #C2AAA4;
+  border-width: 20px;
+  border-style: ridge;
+  padding: 0.5em;
+  background-color: #E3D1CF;
+}

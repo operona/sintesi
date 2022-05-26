@@ -1,0 +1,31 @@
+body {
+  background-color: #FFEFEB;
+}
+
+.pasos {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 24em;
+}
+
+.paso {
+  border-color: #C2AAA4;
+  border-width: 20px;
+  border-style: ridge;
+  padding: 0.5em;
+  background-color: #E3D1CF;
+  width: 65em;
+  padding: 2em;
+  text-align: center;
+}
+
+.imagen{
+  padding-bottom: 1em;
+}
+
+.explicacion {
+  padding: 0.5em;
+  background-color: #C2AAA4;
+  height: 4em;
+  padding: 1.25em;
+}
