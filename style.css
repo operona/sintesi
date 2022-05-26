@@ -216,3 +216,15 @@ body {
   grid-template-columns: 1fr 1fr;
   padding: 1em;
 }
+
+#imagenes-peliculas10 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1em;
+}
+
+#imagenes-peliculas12 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1em;
+}
