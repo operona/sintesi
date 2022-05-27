@@ -1,0 +1,19 @@
+body {
+  background-color: #FFEFEB;
+}
+
+.apartados{
+  padding: 3em;
+  padding-left: 23em;
+}
+
+.apartado {
+  border-color: #C2AAA4;
+  border-width: 20px;
+  border-style: ridge;
+  padding: 0.5em;
+  background-color: #E3D1CF;
+  width: 65em;
+  padding: 2em;
+  text-align: center;
+}

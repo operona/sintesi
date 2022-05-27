@@ -2,32 +2,24 @@ body {
   background-color: #FFEFEB;
 }
 
-.hardware {
-  padding: 2em;
-  padding-left: 22em;
+.peliculas {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 24em;
 }
 
-
-.hardimg {
-  width: 70em;
+.imagenes-peliculas10{
   overflow-x: auto;
   white-space: nowrap;
-  border-color: #C2AAA4;
-  border-width: 20px;
-  border-style: ridge;
-  text-align: center;
-  background-color: #E3D1CF;
-  padding: 0;
 }
 
-
-.texto {
+.apartado {
   border-color: #C2AAA4;
   border-width: 20px;
   border-style: ridge;
   padding: 0.5em;
   background-color: #E3D1CF;
-  width: 70em;
+  width: 65em;
   padding: 2em;
   text-align: center;
 }
